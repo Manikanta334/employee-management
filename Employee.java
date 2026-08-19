@@ -4,8 +4,10 @@ public class Employee {
 
         String name = "Manikanta";
         String email = "manikanta@example.com";
+        String phone = "9876543210";
 
         System.out.println("Employee: " + name);
         System.out.println("Email: " + email);
+        System.out.println("Number: " + phone);
     }
 }
